@@ -1,0 +1,3 @@
+D:/C++Space/GitQGAssignment/Pentagram/Pentagram/out/build/x64-Debug (默认值)/CMakeFiles/06_Mouse_and_Keyboard.dir
+D:/C++Space/GitQGAssignment/Pentagram/Pentagram/out/build/x64-Debug (默认值)/CMakeFiles/edit_cache.dir
+D:/C++Space/GitQGAssignment/Pentagram/Pentagram/out/build/x64-Debug (默认值)/CMakeFiles/rebuild_cache.dir
